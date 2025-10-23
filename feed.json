@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "The Null Record",
     "description": "",
-    "home_page_url": "https://demyelination.github.io/noise",
-    "feed_url": "https://demyelination.github.io/noise/feed.json",
+    "home_page_url": "https://blog.isimian.com",
+    "feed_url": "https://blog.isimian.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jack"

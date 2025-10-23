@@ -13,7 +13,7 @@
             "id": "https://demyelination.github.io/noise/hello-world/",
             "url": "https://demyelination.github.io/noise/hello-world/",
             "title": "Hello world",
-            "summary": "I am just making this new post to show off how cool&hellip;",
+            "summary": "I am just making this new post to show off how cool I am.",
             "content_html": "\n  <p>\n    I am just making this new post to show off how cool I am.\n  </p>",
             "author": {
                 "name": "Jack"

@@ -3,12 +3,77 @@
     <title>A Null Record</title>
     <link href="https://blog.isimian.com/feed.xml" rel="self" />
     <link href="https://blog.isimian.com" />
-    <updated>2025-10-24T17:38:19-05:00</updated>
+    <updated>2025-10-24T17:54:21-05:00</updated>
     <author>
         <name>Jack</name>
     </author>
     <id>https://blog.isimian.com</id>
 
+    <entry>
+        <title>Stop Renting Your Digital Life: Three Tools to Claim Your Own Corner of the Internet</title>
+        <author>
+            <name>Jack</name>
+        </author>
+        <link href="https://blog.isimian.com/stop-renting-your-digital-life-three-tools-to-claim-your-own-corner-of-the-internet/"/>
+        <id>https://blog.isimian.com/stop-renting-your-digital-life-three-tools-to-claim-your-own-corner-of-the-internet/</id>
+        <media:content url="https://blog.isimian.com/media/posts/26/Gemini_Generated_Image_1r379l1r379l1r37.png" medium="image" />
+
+        <updated>2025-10-24T17:54:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.isimian.com/media/posts/26/Gemini_Generated_Image_1r379l1r379l1r37.png" alt="" />
+                    TL;DR: You can build a fast, secure website, chat privately, and use&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.isimian.com/media/posts/26/Gemini_Generated_Image_1r379l1r379l1r37.png" class="type:primaryImage" alt="" /></p>
+                <blockquote>
+<p>TL;DR: You can build a fast, secure website, chat privately, and use social media without giant corporations watching every single move you make.</p></blockquote>
+<hr>
+<h2 id="lets-dig-in">Let’s Dig In</h2>
+<p>You’re not really a customer of the major online platforms; you’re just a <strong>tenant</strong>. They charge you with your attention, track your activity like a landlord, and change the rules on a whim. The fix isn’t to be a coding genius, it’s to switch out the parts of your online life that are built for surveillance with ones that are built for <strong>control</strong>.</p><h3 id="1-your-website-the-pre-built-house-publii">1. Your Website: The Pre-Built House (Publii)</h3>
+<p>Most websites are like a <strong>fast-food kitchen</strong>: Every time a visitor shows up, the waiter (the server) has to run to the back, talk to the cook (the database), assemble the food (the page code), and then deliver it. This makes the whole operation slow, heavy, and leaves a lot of doors for troublemakers (hackers) to get in.</p><p><strong>Publii</strong> changes this. It’s a simple app on your own computer where you <strong>pre-bake the entire cake</strong>—the finished website—before anyone even orders. When you’re ready, you click a button, and the app uploads only the <strong>ready-made slices</strong> (the finished, lightweight files) to your cheap web host.</p><p>The result is a site that loads <strong>lightning-fast</strong> because there’s no complicated database or code to wrestle with on the server. It’s also incredibly <strong>secure</strong> because the server is serving static, unchanging files instead of running a complex engine that can be attacked. You write offline, keep control locally, and only upload the final product.</p><h3 id="2-private-chat-the-direct-line-jami">2. Private Chat: The Direct Line (Jami)</h3>
+<p>When you use the big messaging apps, your texts, calls, and files usually have to go through one company’s massive <strong>central switchboard</strong> first. That switchboard sees all the traffic and is the single biggest target for data theft.</p><p><strong>Jami</strong> skips the switchboard entirely. It’s designed for <strong>direct, device-to-device</strong> communication. Think of it like walking from your house straight to your friend’s house instead of always having to go through a central post office.</p><p>This <strong>cuts out the middleman</strong>. No central server means no company watching the traffic, no billionaire spying model, and no targeted ads based on your conversations. Your contact list and chat history are locked down on your device, not floating on some corporate cloud.</p><h3 id="3-social-media-the-neighborhood-network-mastodon">3. Social Media: The Neighborhood Network (Mastodon)</h3>
+<p>Traditional social media is a single, centralized <strong>TV channel</strong>. One CEO or corporate board decides what gets shown, and the algorithm is the director, manipulating the programming to keep you scrolling.</p><p><strong>Mastodon</strong> is a network of thousands of small, <strong>independent towns</strong> (servers) that all agree to talk to each other. It works like <strong>email</strong>: You can have an account on a GMail server, your friend can have one from their local university, and you can still send messages back and forth.</p><p>You pick a “neighborhood” (a server) that fits your interests. You can still follow and talk to people on <em>any</em> other Mastodon server. Your feed is <strong>chronological</strong>—you see posts from the people you follow, in the order they posted them—without a corporation’s algorithm deciding what you need to see next. If you don’t like the rules of your current “town,” you pack up and move to a new one without losing access to the rest of the network. It’s a social network where the <strong>community sets the rules</strong>.</p><hr>
+<h2 id="go-deeper">Go Deeper:</h2>
+<p><a href="https://getpublii.com/">Publii Official Website - Static CMS</a>
+<a href="https://jami.net/">Jami - Free/Libre, Secure, and Private Communication</a>
+<a href="https://joinmastodon.org/">Mastodon: Decentralized social media (JoinMastodon)</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>That &#x27;Miracle Spray&#x27; You Love: What WD-40 Really Is (and Isn&#x27;t) 🧐</title>
+        <author>
+            <name>Jack</name>
+        </author>
+        <link href="https://blog.isimian.com/that-miracle-spray-you-love-what-wd-40-really-is-and-isnt/"/>
+        <id>https://blog.isimian.com/that-miracle-spray-you-love-what-wd-40-really-is-and-isnt/</id>
+        <media:content url="https://blog.isimian.com/media/posts/25/Gemini_Generated_Image_yf04xhyf04xhyf04.png" medium="image" />
+
+        <updated>2025-10-24T17:50:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.isimian.com/media/posts/25/Gemini_Generated_Image_yf04xhyf04xhyf04.png" alt="" />
+                    TL;DR: WD-40 was created to keep missiles from rusting by kicking out&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.isimian.com/media/posts/25/Gemini_Generated_Image_yf04xhyf04xhyf04.png" class="type:primaryImage" alt="" /></p>
+                <blockquote>
+<p>TL;DR: <strong>WD-40</strong> was created to keep missiles from rusting by kicking out water, not primarily to be a long-term lubricant, though it does a decent job cleaning and stopping immediate moisture.</p></blockquote>
+<hr>
+<h2 id="lets-dig-in">Let’s Dig In</h2>
+<p>You know that blue and yellow can everyone keeps in the garage? The one you spray on everything from a squeaky door hinge to a rusty bolt? That’s <strong>WD-40</strong>. Here’s the stripped-down truth: The name stands for <strong>Water Displacement, 40th Formula</strong>. That’s it. Its original job, back in the 1950s, was to be a protective shield—a <strong>rust guard</strong>—for delicate missile parts by aggressively pushing water out of tiny spaces. Think of it like this: if your metal part is wet, WD-40 is the <strong>bouncer</strong> that immediately throws the water out so rust can’t set up shop.</p><p>It <strong>does</strong> contain some light lubricating oils, so it can make things move <em>right now</em>. It’s a great <strong>temporary fix</strong> for a stuck zipper or a noisy hinge because its liquid is thin—like a <strong>running stream</strong>—allowing it to sneak into tight spots where thick grease, the <strong>slow-moving glacier</strong>, can’t reach. However, because it’s so thin, that “stream” of protection evaporates quickly, often leaving behind a residue that can actually <strong>attract dust</strong> over time. So, while it’s a fantastic <strong>cleaner</strong> and <strong>water-kicker</strong>, if you need heavy-duty, long-lasting sliding support, you need to graduate to something thicker, like <strong>grease</strong> (the glacier) or a specialized <strong>dry lube</strong> (like a Teflon coating). Don’t rely on the bouncer for your marathon runner’s long-term training.</p><hr>
+<h2 id="go-deeper">Go Deeper:</h2>
+<p><a href="https://www.wd40.com/myths-legends-fun-facts/">Link 1: Explore Myths, Legends &amp; Fun Facts of the Blue &amp; Yellow Can</a>
+<a href="https://en.wikipedia.org/wiki/WD-40">Link 2: WD-40 - Wikipedia Overview</a>
+<a href="https://tchristy.com/wp-content/pdf/specsheets/15029SS.pdf">Link 3: WD-40 Technical Data Sheet</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Original Internet Radio Blueprint: Forget Subscriptions, Remember Shoutcast</title>
         <author>
@@ -23,7 +88,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.isimian.com/media/posts/24/Gemini_Generated_Image_m0s5spm0s5spm0s5.png" alt="" />
-                    TL;DR: Shoutcast is the foundational, old-school internet radio technology that lets you broadcast audio streams using simple protocols, unlike today’s complex paid streaming services. Forget those monthly music subscriptions for a moment. Back when the internet was still finding its feet, a company called Nullsoft—the&hellip;
+                    TL;DR: Shoutcast is the foundational, old-school internet radio technology that lets you&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -56,7 +121,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.isimian.com/media/posts/23/Gemini_Generated_Image_u2k56nu2k56nu2k5.png" alt="" />
-                    TL;DR: The Network Time Protocol (NTP) acts like the internet’s universal clock master, using a hierarchy of incredibly accurate time sources (like atomic clocks) to keep every computer, server, and device precisely in sync down to the millisecond. Forget the idea that your computer keeps&hellip;
+                    TL;DR: The Network Time Protocol (NTP) acts like the internet’s universal clock&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -93,7 +158,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.isimian.com/media/posts/22/Gemini_Generated_Image_txvdu8txvdu8txvd.png" alt="" />
-                    TL;DR: Panspermia is the theory that life didn’t start here but was shipped to Earth from space via rocks like comets or asteroids. Forget worrying about a primordial chemical soup brewing on early Earth. The theory of Panspermia—which literally means “seeds everywhere”—suggests a much cleaner&hellip;
+                    TL;DR: Panspermia is the theory that life didn’t start here but was&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -124,7 +189,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.isimian.com/media/posts/20/Gemini_Generated_Image_3ijq23ijq23ijq23.png" alt="" />
-                    A woman named Henrietta Lacks died of cancer in 1951, but a sample of her tumor cells, taken without her consent, became the first “immortal” human cell line, powering decades of medical breakthroughs. Imagine a factory where the workers never clock out. That’s essentially what&hellip;
+                    A woman named Henrietta Lacks died of cancer in 1951, but a&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -139,39 +204,6 @@
 <p><a href="https://www.hopkinsmedicine.org/henrietta-lacks/importance-of-hela-cells">The Importance of HeLa Cells</a>
 <a href="https://en.wikipedia.org/wiki/HeLa">HeLa - Wikipedia</a>
 <a href="https://www.pbs.org/newshour/science/who-was-henrietta-lacks-heres-how-hela-cells-became-essential-to-medical-research">Who was Henrietta Lacks? Here’s how HeLa cells became essential to medical research</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Freedom Toolkit: Building and Talking on My Own Terms</title>
-        <author>
-            <name>Jack</name>
-        </author>
-        <link href="https://blog.isimian.com/the-freedom-toolkit-building-and-talking-on-my-own-terms/"/>
-        <id>https://blog.isimian.com/the-freedom-toolkit-building-and-talking-on-my-own-terms/</id>
-            <category term="internet"/>
-
-        <updated>2025-10-23T22:01:20-05:00</updated>
-            <summary>
-                <![CDATA[
-                    TL;DR The internet's too noisy, too nosy, and too controlled by billionaires. I'm using three free tools—Publii, Jami, and Mastodon—to build my own corner of the web and communicate with friends, all while keeping my personal data out of corporate hands. It's like having a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://blog.isimian.com/media/posts/7/Gemini_Generated_Image_1r379l1r379l1r37.png" height="1024" width="1024" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://blog.isimian.com/media/posts/7/responsive/Gemini_Generated_Image_1r379l1r379l1r37-xs.png 640w ,https://blog.isimian.com/media/posts/7/responsive/Gemini_Generated_Image_1r379l1r379l1r37-sm.png 768w ,https://blog.isimian.com/media/posts/7/responsive/Gemini_Generated_Image_1r379l1r379l1r37-md.png 1024w ,https://blog.isimian.com/media/posts/7/responsive/Gemini_Generated_Image_1r379l1r379l1r37-lg.png 1366w ,https://blog.isimian.com/media/posts/7/responsive/Gemini_Generated_Image_1r379l1r379l1r37-xl.png 1600w ,https://blog.isimian.com/media/posts/7/responsive/Gemini_Generated_Image_1r379l1r379l1r37-2xl.png 1920w">
-      
-    </figure>
-
-  <p>
-    <strong>TL;DR<br></strong>The internet's too noisy, too nosy, and too controlled by billionaires. I'm using three free tools—Publii, Jami, and Mastodon—to build my own corner of the web and communicate with friends, all while keeping my personal data out of corporate hands. It's like having a private post office and building your own house instead of renting in a digital skyscraper. 🏠
-  </p>
-
-  <p>
-    The Problem with Renting Space Online<br>Let's be honest: being online feels less like owning property and more like renting a cramped apartment from giant landlords. They charge you with your attention, track your moves, and dictate the rules. I got tired of the constant surveillance and the slow, clunky performance of corporate tech. So, I built my own little corner of the internet using three tools that put the control back in my hands. This isn't about being a hardcore tech genius; it’s about common sense.<br><br><b>Publii: My Website, Built on My Laptop<br></b>If you’ve ever dealt with WordPress or standard website hosting, you know the drill: Every time someone clicks a link, the server has to wake up, run code, talk to a database, and assemble the page. It’s slow, it’s resource-heavy, and it creates a perfect target for anyone looking to cause trouble.<br><br>Publii is the fix. It’s just an app on my computer, like an advanced word processor. I write all my posts, organize the pictures, and preview the whole thing while I’m totally offline. When it’s ready, I click one button, and Publii uploads the finished, lightweight files to my cheap web host.<br><br>It’s like baking the entire cake at home and just delivering the ready-made slices. Result? My site loads lightning-fast because there’s no database wrestling happening on the server. It’s secure because there’s no complicated engine for hackers to attack. I write when I want, upload when I’m ready, and keep my money in my pocket.<br><br><b>Jami: Talking Without the Middleman<br></b>When we chat on the big apps—even the ones that promise privacy—our messages usually pass through some company's massive central server first. That server is a single point of failure and a giant target for anyone wanting data.<br><br>Jami skips that step entirely. It’s designed for direct communication. When I send you a picture or a text, it goes straight from my device to yours.<br><br>The reason this matters to the average person is simple: no server means no company watching the traffic. I can have rich messages, video calls, and file shares, but the architecture ensures that your contact list and conversation history stay locked down on your machine. It cuts out the billionaire spying model entirely—no tracking, no targeted ads based on our conversations.<br><br><b>Mastodon: Social Media That Works Like Email, Not a TV Show<br></b>The main social platforms are controlled by one entity that decides what’s important by showing you what keeps you hooked (the algorithm). If you don't like the rules of that town, you’re out.<br><br>Mastodon is built on a simple principle: decentralization. Think of it like email. I can have a Gmail account, and you can have one from your local bank or work server, but we can still send messages to each other perfectly fine.<br><br>On Mastodon, you join a server (a "local neighborhood") that fits your interests. You get your own username like you@yourneighborhood.net. But here's the key: because all these independent servers talk to each other, you can still follow and talk to people on any other Mastodon server.<br><br>Why it’s better: Your feed isn't manipulated to keep you scrolling for ads. You see posts from the people you follow, in the order they posted them. If you hate the admin or rules on your current server, you just pack up and move to a new one without losing access to the whole network. It’s social media where the community sets the rules, not some distant corporate board.<br><br><strong>Further Reading &amp; Resources<br></strong>If you’re ready to start using tools that respect your time and your privacy, here’s what to search for to get started:<br><br>For Building Your Site: Search "Publii documentation simple blog"<br><br>For Private Messaging: Search "Jami messenger reviews"<br><br>For Joining the Fediverse: Search "How to choose a Mastodon instance"<br><br>What part of cutting the cord—the website, the chat, or the social media—feels like the easiest first step for you?
-  </p>
             ]]>
         </content>
     </entry>

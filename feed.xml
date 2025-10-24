@@ -5,17 +5,17 @@
     <link href="https://blog.isimian.com" />
     <updated>2025-10-23T19:02:12-05:00</updated>
     <author>
-        <name>Jack</name>
+        <name>Just Jack</name>
     </author>
     <id>https://blog.isimian.com</id>
 
     <entry>
         <title>Hello World</title>
         <author>
-            <name>Jack</name>
+            <name>Just Jack</name>
         </author>
-        <link href="https://blog.isimian.com/hello-world/"/>
-        <id>https://blog.isimian.com/hello-world/</id>
+        <link href="https://blog.isimian.com/hello-world.html"/>
+        <id>https://blog.isimian.com/hello-world.html</id>
 
         <updated>2025-10-22T22:49:00-05:00</updated>
             <summary>

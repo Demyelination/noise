@@ -6,17 +6,17 @@
     "feed_url": "https://blog.isimian.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Jack"
+        "name": "Just Jack"
     },
     "items": [
         {
-            "id": "https://blog.isimian.com/hello-world/",
-            "url": "https://blog.isimian.com/hello-world/",
+            "id": "https://blog.isimian.com/hello-world.html",
+            "url": "https://blog.isimian.com/hello-world.html",
             "title": "Hello World",
             "summary": "This is my new blog page and my first entry of many to come.&nbsp;&nbsp;",
             "content_html": "\n  <p>\n    This is my new blog page and my first entry of many to come.&nbsp;&nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://blog.isimian.com/media/posts/1/infinity_loop2.gif\" height=\"600\" width=\"800\" alt=\"\" >\n      \n    </figure>",
             "author": {
-                "name": "Jack"
+                "name": "Just Jack"
             },
             "tags": [
             ],

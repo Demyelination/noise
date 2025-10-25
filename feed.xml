@@ -3,12 +3,53 @@
     <title>A Null Record</title>
     <link href="https://blog.isimian.com/feed.xml" rel="self" />
     <link href="https://blog.isimian.com" />
-    <updated>2025-10-24T18:41:19-05:00</updated>
+    <updated>2025-10-24T21:14:32-05:00</updated>
     <author>
         <name>Jack</name>
     </author>
     <id>https://blog.isimian.com</id>
 
+    <entry>
+        <title>New Trick for Orchids: Ditch the Dirt and Keep &#x27;Em Swimming</title>
+        <author>
+            <name>Jack</name>
+        </author>
+        <link href="https://blog.isimian.com/new-trick-for-orchids-ditch-the-dirt-and-keep-em-swimming/"/>
+        <id>https://blog.isimian.com/new-trick-for-orchids-ditch-the-dirt-and-keep-em-swimming/</id>
+        <media:content url="https://blog.isimian.com/media/posts/29/PXL_20251012_185636667.jpg" medium="image" />
+            <category term="science"/>
+            <category term="nature"/>
+            <category term="deepdive"/>
+
+        <updated>2025-10-24T21:14:32-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.isimian.com/media/posts/29/PXL_20251012_185636667.jpg" alt="" />
+                    Forget soil and branches—some people successfully grow orchids by sitting their bare&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.isimian.com/media/posts/29/PXL_20251012_185636667.jpg" class="type:primaryImage" alt="" /></p>
+                <blockquote>
+<p>Forget soil and branches—some people successfully grow orchids by sitting their bare roots in a jar of water, but you have to manage the rot risk.</p></blockquote>
+<hr>
+<h2 id="lets-dig-in">Let’s Dig In</h2>
+<p>Your initial thought about skipping the soil and putting an orchid directly in water is a real technique, called <strong>water culture</strong> (or sometimes hydroponics for orchids). This method goes against the usual advice because most orchids evolved to live on trees, not permanently standing in a puddle.</p><p>However, for certain types, like the common <strong>Moth Orchid</strong> (<em>Phalaenopsis</em>), you can make this work by turning the standard pot method on its head.</p><p><strong>The Water Culture Game Plan:</strong></p><ol>
+<li><strong>Scrub Clean:</strong> First, you have to strip the plant completely bare. Throw out all the old potting mix—bark, moss, whatever. You must <strong>clean the roots thoroughly</strong>. Any dead or mushy bits must be cut off because they will rot instantly in standing water and take the whole plant down with them.</li>
+<li><strong>The Water Level is Everything:</strong> This is the critical part. You <strong>do not</strong> fill the jar to the brim. You only want the bottom section—maybe one-third or two-thirds—of the roots to sit in the water. The upper roots and the base of the plant (the crown) must stay completely dry and in the air. If the crown gets wet and stays wet, it rots off.</li>
+<li><strong>The Cycle:</strong> The goal is to mimic rain. You can either let the water evaporate until only a little remains, then refill (a cycle), or use a <strong>Semi-Water Culture</strong> method where you let the roots dry out completely for several days before soaking them again. Constant submersion is a recipe for disaster for most types.</li>
+<li><strong>Water Quality:</strong> Tap water is often treated with chemicals that orchids hate. If you’re doing this delicate method, you need to use <strong>distilled or collected rainwater</strong> to avoid burning the roots with tap water additives. You also need to feed them with a very weak fertilizer solution regularly.</li>
+</ol>
+<p><strong>The Bottom Line:</strong> When you keep an orchid in a pot, the material (like bark) acts like a sponge that lets water in but lets the air circulate as it dries out. In water culture, you are replacing that sponge with <em>pure water</em>. It takes immense discipline to prevent that stagnant water from turning into a bacterial swamp. It can work, but it’s usually an advanced move, not a simple fix.</p><hr>
+<h2 id="go-deeper">Go Deeper:</h2>
+<p><a href="https://www.ohiotropics.com/2024/12/05/convert-orchids-to-water-culture/">Guide to Converting Orchids to Water Culture</a>
+<a href="https://herebutnot.com/side-semi-hydro-sh-full-water-culture-fwc-orchid-care/">The Arguments Against Constant Water Culture for Orchids</a>
+<a href="https://en.wikipedia.org/wiki/Epiphyte">Wikipedia Overview of Epiphytic Plants</a>
+```</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Why The Whole Is Stranger Than The Sum Of Its Parts: A Guide to Emergence</title>
         <author>
@@ -17,7 +58,7 @@
         <link href="https://blog.isimian.com/why-the-whole-is-stranger-than-the-sum-of-its-parts-a-guide-to-emergence/"/>
         <id>https://blog.isimian.com/why-the-whole-is-stranger-than-the-sum-of-its-parts-a-guide-to-emergence/</id>
         <media:content url="https://blog.isimian.com/media/posts/27/Gemini_Generated_Image_w9k89mw9k89mw9k8.png" medium="image" />
-            <category term="Science"/>
+            <category term="science"/>
 
         <updated>2025-10-24T18:41:19-05:00</updated>
             <summary>
@@ -49,6 +90,8 @@
         <link href="https://blog.isimian.com/stop-renting-your-digital-life-three-tools-to-claim-your-own-corner-of-the-internet/"/>
         <id>https://blog.isimian.com/stop-renting-your-digital-life-three-tools-to-claim-your-own-corner-of-the-internet/</id>
         <media:content url="https://blog.isimian.com/media/posts/26/Gemini_Generated_Image_1r379l1r379l1r37.png" medium="image" />
+            <category term="internet"/>
+            <category term="deepdive"/>
 
         <updated>2025-10-24T17:54:21-05:00</updated>
             <summary>
@@ -146,8 +189,8 @@
         <link href="https://blog.isimian.com/the-internets-secret-timekeeper-why-your-devices-always-agree/"/>
         <id>https://blog.isimian.com/the-internets-secret-timekeeper-why-your-devices-always-agree/</id>
         <media:content url="https://blog.isimian.com/media/posts/23/Gemini_Generated_Image_u2k56nu2k56nu2k5.png" medium="image" />
+            <category term="science"/>
             <category term="internet"/>
-            <category term="Science"/>
 
         <updated>2025-10-24T16:58:42-05:00</updated>
             <summary>
@@ -184,7 +227,7 @@
         <link href="https://blog.isimian.com/did-life-hitch-a-ride-the-cosmic-hitchhiker-theory-of-everything/"/>
         <id>https://blog.isimian.com/did-life-hitch-a-ride-the-cosmic-hitchhiker-theory-of-everything/</id>
         <media:content url="https://blog.isimian.com/media/posts/22/Gemini_Generated_Image_txvdu8txvdu8txvd.png" medium="image" />
-            <category term="Science"/>
+            <category term="science"/>
 
         <updated>2025-10-24T16:54:38-05:00</updated>
             <summary>

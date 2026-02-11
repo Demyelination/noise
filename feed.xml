@@ -1,12 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>A Null Record</title>
-    <link href="http://nullrecord.isimian.com/feed.xml" rel="self" />
-    <link href="http://nullrecord.isimian.com" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <link href="http://blog.isimian.com/feed.xml" rel="self" />
+    <link href="http://blog.isimian.com" />
+    <updated>2025-10-24T18:41:19-05:00</updated>
     <author>
         <name>Jack</name>
     </author>
-    <id>http://nullrecord.isimian.com</id>
+    <id>http://blog.isimian.com</id>
 
+    <entry>
+        <title>Why The Whole Is Stranger Than The Sum Of Its Parts: A Guide to Emergence</title>
+        <author>
+            <name>Jack</name>
+        </author>
+        <link href="http://blog.isimian.com/why-the-whole-is-stranger-than-the-sum-of-its-parts-a-guide-to-emergence/"/>
+        <id>http://blog.isimian.com/why-the-whole-is-stranger-than-the-sum-of-its-parts-a-guide-to-emergence/</id>
+        <media:content url="http://blog.isimian.com/media/posts/27/Gemini_Generated_Image_w9k89mw9k89mw9k8.png" medium="image" />
+            <category term="science"/>
+
+        <updated>2025-10-24T18:41:19-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="http://blog.isimian.com/media/posts/27/Gemini_Generated_Image_w9k89mw9k89mw9k8.png" alt="" />
+                    TL;DR: Emergence is when many simple things interact to create a completely&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="http://blog.isimian.com/media/posts/27/Gemini_Generated_Image_w9k89mw9k89mw9k8.png" class="type:primaryImage" alt="" /></p>
+                <blockquote>
+<p>TL;DR: Emergence is when many simple things interact to create a completely new, unpredictable, and surprising property that none of the individual parts possess.</p></blockquote>
+<hr>
+<h2 id="lets-dig-in">Let’s Dig In</h2>
+<p>Forget the jargon. <strong>Emergence</strong> is the scientific term for the magic trick where simple components, when connected in a large enough system, suddenly produce an outcome that’s far greater than what you’d expect. It’s the moment the whole system gains a new ability its parts simply don’t have.</p><p>Think of it like this: A single <strong>water molecule</strong> ($H_2O$) is just two hydrogen atoms and one oxygen atom. You can’t look at that single molecule and say, “Wow, that’s wet and flowing.” But gather a massive number of them together, let them interact, and <em>poof</em>—you get <strong>wetness</strong> and the ability to flow like a river. Wetness is an emergent property.</p><p>Another classic example is a <strong>flock of birds</strong> . No single bird is the leader; no bird has a blueprint for a giant, flowing cloud shape. They just follow three simple rules: stay separate from your neighbor, match your neighbor’s speed, and steer toward the center of the flock. When thousands of birds follow these basic local rules, the complex, gorgeous, and unpredictable shape of a <em>murmuration</em> emerges. That collective, intelligent-looking movement is the emergent behavior.</p><p>In your brain, a single <strong>neuron</strong> is just an electrical switch. It can’t feel love, solve a math problem, or wonder what’s for dinner. But when billions of these simple switches are wired into the massive, complex network that is the human brain, the emergent property we call <strong>consciousness</strong> appears. The ability to think and be aware wasn’t programmed; it <em>arose</em> from the sheer scale and interaction of the simple parts. Emergence means sometimes, just by adding more simple parts and letting them talk to each other, you hit a critical point, and something entirely new—something non-negotiably real—pops out.</p><hr>
+<h2 id="go-deeper">Go Deeper:</h2>
+<p><a href="https://en.wikipedia.org/wiki/Emergence">Link 1: Emergence - Wikipedia</a>
+<a href="https://www.santafe.edu/ideas/emergence">Link 2: What Is Emergence? - Santa Fe Institute (Complex Systems)</a>
+<a href="https://cerncourier.com/a/emergence/">Link 3: Emergence in Physical Systems (CERN Courier)</a></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
